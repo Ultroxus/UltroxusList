@@ -8,5 +8,10 @@
     "percentToQualify": 72,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "RAASU",
+            "link": "https://youtu.be/nWu4fhiW3WY",
+            "percent": 100,
+        }
     ]
 }
