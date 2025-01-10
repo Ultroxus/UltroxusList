@@ -8,5 +8,11 @@
     "percentToQualify": 63,
     "password": "666777",
     "records": [
+        {
+            "user": "RAASU",
+            "link": "https://youtu.be/qZq0GOYnkcg",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
