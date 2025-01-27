@@ -3,16 +3,16 @@
     "name": "Windy Landscape",
     "author": "WOOGI1411",
     "creators": ["WOOGI1411"],
-    "verifier": "Nemesis Athena",
-    "verification": "https://youtu.be/RPjnTAEmV_k?si=s0NXEtQeo1Ye1RFc",
+    "verifier": "Ultroxus",
+    "verification": "https://www.youtube.com/watch?v=6SW1uQgUiXw",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
  {
-            "user": "Ultroxus",
+            "user": "NemesisAthena",
             "link": "https://youtu.be/6SW1uQgUiXw?si=r3e2aEOEND9HfzEz",
             "percent": 100,
-            "hz": 240
+            "hz": 180
         }
     ]
 }
