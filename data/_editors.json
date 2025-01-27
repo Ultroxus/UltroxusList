@@ -1,7 +1,12 @@
 [
     {
-        "role": "owner",
+        "role": "Owner",
         "name": "Ultroxus",
         "link": "https://www.youtube.com/@Ultroxus"
+    },
+    {
+        "role": "Admin",
+        "name": "NemesisAthena",
+        "link": "https://www.youtube.com/@NemesisAthena"
     }
 ]
