@@ -1,1 +1,18 @@
-
+{
+    "id": 91180803,
+    "name": "Fallen Club",
+    "author": "trideapthbear",
+    "creators": ["trideapthbear"],
+    "verifier": "Ultroxus",
+    "verification": "https://www.youtube.com/watch?v=IjfyaQjByIs",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+ {
+            "user": "Nemesis Athena",
+            "link": "https://www.youtube.com/watch?v=ssAc3fVzAAc&t=201s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
