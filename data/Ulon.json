@@ -1,1 +1,18 @@
-
+{
+    "id": 68688822,
+    "name": "Ulon",
+    "author": "OliSW",
+    "creators": ["OliSW"],
+    "verifier": "BootifulBlaze",
+    "verification": "https://youtu.be/kazcs_cpJpA",
+    "percentToQualify": 100,
+    "password": "555555",
+    "records": [
+        {
+            "user": "BootifulBlaze",
+            "link": "https://youtu.be/bSV06Dl6pHU",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
