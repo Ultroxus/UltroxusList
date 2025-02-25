@@ -8,17 +8,6 @@
     "percentToQualify": 57,
     "password": "123985",
     "records": [
-        {
-            "user": "BootifulBlaze",
-            "link": "https://youtu.be/qo3wNBcG9mk?si=qnqA0Td2RT2q7MHg",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Nemesis Athena",
-            "link": "https://youtu.be/K1kgESo00Kk",
-            "percent": 100,
-            "hz": 360
-        }
+
     ]
 }
