@@ -8,5 +8,12 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+"records": [
+        {
+            "user": "Julian1830",
+            "link": "https://www.youtube.com/watch?v=GssMx0sRUMw",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
