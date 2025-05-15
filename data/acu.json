@@ -8,17 +8,5 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
 "records": [
-        {
-            "user": "sanethegreat",
-            "link": "https://www.youtube.com/watch?v=TOK1UxqKeE4",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Julian1830",
-            "link": "https://cdn.discordapp.com/attachments/1352617353787211806/1354847443996639435/image.png?ex=67e6c782&is=67e57602&hm=6ffc3f14de922610034f2d5604979446d63307b2f379aed1d2e7fef648c4729e&",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }
